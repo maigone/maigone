@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maigone
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Java, Python
+- 💞️ I’m looking to collaborate on small projects
+- 📫 How to reach me with WeChat
